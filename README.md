@@ -1,0 +1,1 @@
+Projeto da faculdade realizado no laboratório de programação. O desenvolvimento do codigo se baseia no famoso Jogo dominó. Ele foi programado para que as regras do jogo funcionassem perfeitamente, e de acordo com as peças escolhidas durante a execução do código, o jogo continua até alguém finalizar suas peças.
